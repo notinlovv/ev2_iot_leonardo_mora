@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT-SafeGuard</string>
+    <string name="welcome_message">IoT-SafeGuard OT System</string>
+</resources>
